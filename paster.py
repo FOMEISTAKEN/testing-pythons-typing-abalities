@@ -24,6 +24,9 @@ while True:
     paster()
 
 
+#OWNER: FOME DO NOY STEAL
+
+
 
 
 

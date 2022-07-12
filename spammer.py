@@ -10,3 +10,5 @@ while 0<1:
     pyautogui.press( 'enter' )
     
 
+#OWNER: FOME DO NOY STEAL
+

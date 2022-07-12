@@ -8,3 +8,6 @@ def money():
 
 while True:
     money()
+
+
+#OWNER: FOME DO NOY STEAL

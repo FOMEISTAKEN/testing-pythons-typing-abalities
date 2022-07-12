@@ -1,9 +1,11 @@
+#OWNER: FOME DO NOY STEAL
+
 import random
 import time
 import pyautogui
 import keyboard
 import pygetwindow as gw
-
+##fome
 
 
 slowmode = input("does da server have slowmode?: ")

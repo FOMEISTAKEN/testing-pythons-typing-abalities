@@ -9,5 +9,5 @@ def speaker():
 while True:
     speaker()
 
-
+#OWNER: FOME DO NOY STEAL
 
